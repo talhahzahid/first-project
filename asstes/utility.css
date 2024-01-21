@@ -1,0 +1,65 @@
+
+/* background color  */
+.bg-dark{
+    background-color: #000000;
+}
+.bg-red{
+    background-color: #ed1c24;
+}
+.bg-white{
+    background-color: #fff;
+}
+.bg-grey{
+    background-color: #0f0f0f;
+}
+.bg-tranparent{
+    background-color: transparent;
+}
+
+
+
+
+
+/* flex property start  */
+.d-flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.align-center{
+    align-items: center;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.justify-between{
+    justify-content: space-between;
+}
+/* flex property ended */
+/* text area  start */
+.text-center{
+    text-align: center;
+}
+/* text area ended */
+
+/* border property  */
+.rounded{
+    border-radius: 30px;
+}
+/* border property ended */
+
+/* margin started */
+.mt{
+    margin-top: 50px;
+}
+.mt3{
+    margin-top: 30px;
+}
+.mt1{
+    margin-top: 90px;
+}
+.mb{
+    margin-bottom: 50px;
+}
+/* margin ended */

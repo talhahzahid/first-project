@@ -1,0 +1,232 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navbar started */
+#navbar{
+    padding: 10px 15px;
+  }
+
+.nav-links{
+    text-decoration: none;
+}
+#navbar-items{
+    gap: 30px;
+    font-size: larger;
+}
+
+#Franchies{
+    padding: 15px 20px;
+    background-color: transparent;
+    border: 1px solid white;
+}
+#Order{
+    padding:15px 20px;
+    border: 1px solid red;
+    font-size: 15px;
+}
+#red{
+    font-size: 20px;
+    background-color: #FFFFFF;
+    color: red;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+
+
+/* navbar ended */
+
+
+
+/* welcome area  */
+#container{
+    gap: 30px;
+    margin-bottom: 100px;
+}
+.branch{
+    padding: 20px 20px;
+    border-radius: 5px;
+}
+#btn{
+    padding: 15px 15px;
+    background-color: transparent;
+    border: 1px solid;
+    width: 174px;
+    height: 50px;
+    /* display: flex; */
+    align-items: center;
+    /* justify-content: center; */
+    /* margin-left: 60px; */
+    margin: auto;
+    display: block;
+    margin-top: 24px;
+}
+/* welcome area ended */
+
+
+#Direction-btn{
+    padding: 15px 15px;
+    background-color: transparent;
+    border: 1px solid;
+    width: 174px;
+    /* height: 50px; */
+    /* align-items: center; */
+    /* margin-top: 24px; */
+    margin-left: 90px;
+}
+#direction-btn{
+    font-size: 15px;
+    padding: 15px 20px;
+    background-color: transparent;
+    border: 1px solid;
+    width: 174px;
+    /* height: 50px; */
+    /* align-items: center; */
+    /* margin-top: 24px; */
+    /* margin-left: 90px; */
+}
+
+
+.card{
+    font-family: 'apercu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.48em;
+    text-transform: uppercase;
+    color: #ED1C24;
+    text-align: center;
+    margin-bottom: 8px;
+    display: block;
+    margin-top: 24px;
+}
+.card1{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+}
+.heh{
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 12px;
+}
+
+
+
+/* village gujranwala  */
+#village-entry{
+    font-weight: 400 !important;
+    font-size: 50px !important;
+    line-height: 29px !important
+}
+.village-heading{
+    font-family: 'apercu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 15px;
+    letter-spacing: 0.48em;
+    color: #ED1C24;
+    margin-bottom: 8px;
+    display: block;
+    margin-top: 24px;
+}
+.village-heading2{
+    font-family: 'apercu';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 15px;
+    margin-bottom: 8px;
+    display: block;
+    margin-top: 24px
+}
+.village-location{
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 12px;
+}
+#village-btn{
+    background-color: #28a745;
+    padding: 15px 20px;
+    border: 1px solid #28a745;
+}
+#green{
+        font-size: 20px;
+        background-color: #FFFFFF;
+        color:  #28a745;
+        border-radius: 30px;
+        padding: 5px;
+    }
+    /* village gujranwala   ended */
+
+    /* new branches open  */
+    .new{
+        width: 300px;
+        height: 300px;
+        background-color: #FFFFFF;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 30px 30px;
+        border-radius: 5px;
+    }
+    /* new branches open  */
+    .new1{
+        width: 300px;
+        height: 300px;
+        background-color: #FFFFFF;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 30px 30px;
+        border-radius: 5px;
+    }
+    .new2{
+        width: 300px;
+        height: 300px;
+        background-color: #FFFFFF;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 30px 30px;
+        border-radius: 5px;
+    }
+    #footer-icon{
+        background-color: red;
+        border-radius: 25px;
+        font-size: 15px;
+        padding: 15px 15px;
+    }
+    .footer-navbar ul li{
+        margin: 25px;
+        list-style: none;
+    }
+    .footer-navbar ul li a{
+        text-decoration: none;
+    }
+
+
